@@ -1,0 +1,37 @@
+FNT Paper Update Record:
+
+Ver1.0: the original draft. (May 10, 2022)
+Ver1.1: add funder.
+Ver1.2: add author Marzia.
+Ver1.3: add a legend to figure 3.
+Ver1.4: add author Brian, and change the affiliation to TeleAI.
+Ver1.5: add term explain in 3.3.2, modified according to Rohit's comment.
+Ver1.6: indicate FNT nodes, modified according to Marzia's comment.
+Ver1.7: modified according to Marzia's comment.
+Ver1.8: add legends to figures 1 and 2, modified according to Brian's comment.
+Ver1.9: modify affiliation and funder.
+
+Ver2.0: submitted to Electronics MDPI. (May 20, 2022)
+
+Ver3.0: major revision. (June 3, 2022)
+Ver3.1: minor modification based on Srini's comment.
+Ver3.2: minor modification based on Brian's comment.
+Ver3.3: minor modification based on Marzia's comment.
+Ver3.4: minor modification based on Rohit's comment.
+
+Ver4.0: submitted again. (June 13, 2022)
+
+Ver5.0: reject and encourage resubmission, major revision. (June 26, 2022)
+Ver5.1: minor modification based on Srini's comment.
+
+Ver6.0: submitted again. (July 6, 2022)
+
+Ver7.0: minor revision. (July 20, 2022)
+Ver7.1: minor modification based on Marzia's comment.
+Ver7.2: minor modification based on Srini's comment.
+Ver7.3: minor modification based on Srini's comment.
+
+Ver8.0: submitted again. (July 26, 2022)
+
+Paper accepted. (July 28, 2022)
+Paper published. (August 1, 2022)
